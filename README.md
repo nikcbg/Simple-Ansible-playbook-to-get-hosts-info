@@ -1,0 +1,1 @@
+# Simple-Ansible-playbook-to-get-hosts-info
